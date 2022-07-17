@@ -1,1 +1,13 @@
-body { color: red; }
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    height: 90vh;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#game {
+    background-color: black;
+}
